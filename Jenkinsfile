@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define the Docker image name
-        DOCKER_IMAGE_NAME = "franciscoboll/simple-nodejs"
+        DOCKER_IMAGE_NAME = "mluduenia/simple-nodejs"
     }
 
     stages {
